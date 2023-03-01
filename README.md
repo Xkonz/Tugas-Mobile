@@ -1,6 +1,8 @@
 # Tugas Mobile
 
-A new Flutter project.
+3121600034
+Bagus Setiyo Pambudi
+D4 IT B
 
-## Getting Started
+
 
