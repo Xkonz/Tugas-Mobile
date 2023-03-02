@@ -8,7 +8,6 @@ void main() {
             body: Center(
               child: Text(
                 "Hello World",
-                textDirection: TextDirection.ltr,
               ),
             ),
             appBar: AppBar(
